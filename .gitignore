@@ -100,7 +100,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -155,3 +154,5 @@ test*.db.sqlite3*
 hlyafax.tar
 combined.tar
 a.tr
+config.bat
+node_modules
